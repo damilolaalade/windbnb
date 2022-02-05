@@ -1,0 +1,110 @@
+[
+  {
+    "location": "Helsinki, Finland",
+    "superHost": false,
+    "title": "Stylist apartment in center of the city",
+    "rating": 4.4,
+    "maxGuests": 3,
+    "info": "Entire apartment. 2 Beds",
+    "photo": "https://images.unsplash.com/photo-1505873242700-f289a29e1e0f?ixlib=rb-1.2.1&auto=format&fit=crop&w=2255&q=80"
+  },
+  {
+    "location": "Turku, Finland",
+    "superHost": false,
+    "title": "Nice apartment in center of Helsinki",
+    "rating": 4.2,
+    "maxGuests": 5,
+    "info": "Entire apartment. 3 Beds",
+    "photo": "https://images.unsplash.com/photo-1554995207-c18c203602cb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2250&q=80"
+  },
+  {
+    "location": "Helsinki, Finland",
+    "superHost": true,
+    "title": "Arty interior in 1900 wooden house",
+    "rating": 4.5,
+    "maxGuests": 10,
+    "info": "Entire house. 6 Beds",
+    "photo": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2250&q=80"
+  },
+  {
+    "location": "Helsinki, Finland",
+    "superHost": false,
+    "title": "Apartment next to market square",
+    "rating": 4.48,
+    "maxGuests": 3,
+    "info": "Entire apartment. 1 Bed",
+    "photo": "https://images.unsplash.com/photo-1556020685-ae41abfc9365?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80"
+  },
+  {
+    "location": "Turku, Finland",
+    "superHost": true,
+    "title": "Villa Aurora guest-house",
+    "rating": 4.75,
+    "maxGuests": 9,
+    "info": "Entire house. 2 Beds",
+    "photo": "https://images.unsplash.com/photo-1513694203232-719a280e022f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2249&q=80"
+  },
+  {
+    "location": "Vaasa, Finland",
+    "superHost": true,
+    "title": "A cosy family house",
+    "rating": 4.95,
+    "maxGuests": 6,
+    "info": "Entire house. 3 Beds",
+    "photo": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2250&q=80"
+  },
+  {
+    "location": "Vaasa, Finland",
+    "superHost": false,
+    "title": "Lovely Studio near Railway Station",
+    "rating": 4.68,
+    "maxGuests": 2,
+    "info": "Private room",
+    "photo": "https://images.unsplash.com/photo-1505693314120-0d443867891c?ixlib=rb-1.2.1&auto=format&fit=crop&w=2591&q=80"
+  },
+  {
+    "location": "Oulu, Finland",
+    "superHost": false,
+    "title": "Peaceful little home in city center",
+    "rating": 4.12,
+    "maxGuests": 6,
+    "info": "Entire House. 3 Beds",
+    "photo": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2250&q=80"
+  },
+  {
+    "location": "Oulu, Finland",
+    "superHost": false,
+    "title": "Beautiful new studio apartment nearby the center",
+    "rating": 4.49,
+    "maxGuests": 2,
+    "info": "Entire apartment. 1 Bed",
+    "photo": "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2255&q=80"
+  },
+  {
+    "location": "Oulu, Finland",
+    "superHost": true,
+    "title": "Cozy woodhouse flat with wooden sauna",
+    "rating": 4.38,
+    "maxGuests": 4,
+    "info": "Entire House",
+    "photo": "https://images.unsplash.com/photo-1522156373667-4c7234bbd804?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjF9&auto=format&fit=crop&w=930&q=80"
+  },
+  {
+    "location": "Vaasa, Finland",
+    "superHost": false,
+    "title": "Brand new studio apartment near the harbour",
+    "rating": 4.89,
+    "maxGuests": 6,
+    "info": "Entire apartment. 3 Beds",
+    "photo": "https://images.unsplash.com/photo-1494203484021-3c454daf695d?ixlib=rb-1.2.1&auto=format&fit=crop&w=2250&q=80"
+  },
+  {
+    "location": "Vaasa, Finland",
+    "superHost": true,
+    "title": "Lovely Studio near Railway Station",
+    "rating": 4.68,
+    "maxGuests": 2,
+    "info": "Private room. 1 Bed",
+    "photo": "https://images.unsplash.com/photo-1505693314120-0d443867891c?ixlib=rb-1.2.1&auto=format&fit=crop&w=2591&q=80"
+  }
+]

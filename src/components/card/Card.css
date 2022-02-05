@@ -1,0 +1,87 @@
+.card {
+  margin: 0 5px;
+  width: 350px;
+  padding: 16px 0;
+  border-radius: 15px;
+  box-shadow: 0px 6px 10px -9px rgba(0, 0, 0, 0.9);
+  overflow: hidden;
+}
+
+.image-container{
+  padding-bottom: 15px;
+  min-width: 350px;
+  height: 269px;
+  object-fit: contain;
+}
+
+ img {
+  height: 100%;
+  width: 100%;
+  border-radius: 24px;
+}
+
+.about-container{
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  margin-left: 10px;
+}
+
+.superHost-button{
+  border: 1px solid #4f4f4f;
+  box-sizing: border-box;
+  border-radius: 12px;
+  background-color: transparent;
+  width:100px;
+  height:29px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;text-transform: uppercase;
+  margin-right: 8px;
+}
+
+.info{
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  margin-left: 3px;
+  color:#828282;
+}
+
+.rating-container{
+  display: flex;
+  align-items: center;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  color:#4f4f4f;
+  margin: 2px;
+}
+
+span.rating{
+  margin-left: 3px;
+}
+
+.title{
+  padding-top: 5px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  color:#333;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+.material-icons.star{
+  color:#ff7779;
+}
+
+@media screen and (max-width:360px){
+  .card{
+    width:98%;
+  }
+  .image-container{
+    min-width: inherit;
+  }
+}
